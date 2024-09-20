@@ -30,7 +30,7 @@ public class Clock
       System.out.print("noon");
     if (hour == 18){
       System.out.print("dusk");
-    if (hour >= 1)(hour < 12){
+    if (hour >= 1)&&(hour < 12){
 
     }
     }
